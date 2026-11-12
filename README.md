@@ -1,42 +1,137 @@
-<h1 align="center">Hi 👋, I'm PRAKASH UDHANSHETTI</h1>
-<h3 align="center">BCA Student | Aspiring AI & Software Developer | Building practical solutions with code.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=udhanshettiprakash&label=Profile%20views&color=0e75b6&style=flat" alt="udhanshettiprakash" /> </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=190&section=header&text=PRAKASH%20UDHANSHETTI&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Software%20Developer%20in%20the%20making&descAlignY=60&descSize=16" width="100%" alt="Prakash Udhanshetty profile banner" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=udhanshettiprakash" alt="udhanshettiprakash" /></a> </p>
+  <h2>Hey there! 👋 I'm Prakash</h2>
+  <h3>BCA Student · Aspiring AI & Software Developer · Technology Enthusiast</h3>
 
-- 🔭 I’m currently working on [PRKSH AI – AI & Software Development](https://udhanshettiprakash.github.io/prksh-portfolio/)
+  <p>
+    <a href="https://udhanshettiprakash.github.io/prksh-portfolio/">
+      <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" />
+    </a>
+    <a href="https://github.com/udhanshettiprakash">
+      <img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+    </a>
+    <a href="mailto:prakashdarshan953@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact%20Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Prakash" />
+    </a>
+  </p>
 
-- 🌱 I’m currently learning **Python, Java, JavaScript, React, FastAPI, AI/ML**
+  <img src="https://komarev.com/ghpvc/?username=udhanshettiprakash&label=PROFILE%20VIEWS&color=2563EB&style=flat-square" alt="Profile views" />
 
-- 👯 I’m looking to collaborate on AI Projects, Web Applications & Open Source [FarmSmart AI](https://udhanshettiprakash.github.io/FaramaAI/)
+</div>
 
-- 🤝 I’m looking for help with AI/ML, API Integration & Cloud Deployment [AI-powered software development](https://udhanshettiprakash.github.io/prksh-portfolio/)
+---
 
-- 👨‍💻 All of my projects are available at [https://udhanshettiprakash.github.io/prksh-portfolio/](https://udhanshettiprakash.github.io/prksh-portfolio/)
+## 🚀 About Me
 
-- 💬 Ask me about **Python, Web Development, AI & Technology**
+I'm a BCA student building my skills in programming, web development, and artificial intelligence. I enjoy turning ideas into practical projects, learning by building, and exploring how technology can solve real-world problems.
 
-- 📫 How to reach me **prakashdarshan953@gmail.com**
+- 🔭 **Building:** [PRKSH AI – Developer Portfolio](https://udhanshettiprakash.github.io/prksh-portfolio/)
+- 🌱 **Learning:** Python, Java, JavaScript, React, FastAPI, and AI/ML fundamentals
+- 🌾 **Exploring:** [FarmSmart AI](https://udhanshettiprakash.github.io/FaramaAI/) — an AI-focused agriculture project
+- 🤝 **Open to:** Learning collaborations, beginner-friendly open-source contributions, and practical software projects
+- 💬 **Ask me about:** Programming fundamentals, web development, student projects, and my learning journey
+- 📫 **Reach me:** [prakashdarshan953@gmail.com](mailto:prakashdarshan953@gmail.com)
+- ⚡ **My mindset:** Learn continuously. Build consistently. Improve every day.
 
-- ⚡ Fun fact **I turn ideas into technology that solves real-world problems!**
+## 🧭 What I'm Focused On
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/udhanshettiprakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="udhanshettiprakash" height="30" width="40" /></a>
-<a href="https://dev.to/udhanshettiprakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="udhanshettiprakash" height="30" width="40" /></a>
-<a href="https://twitter.com/udhanshettiprakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="udhanshettiprakash" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/udhanshettiprakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="udhanshettiprakash" height="30" width="40" /></a>
-<a href="https://codesandbox.com/udhanshettiprakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="udhanshettiprakash" height="30" width="40" /></a>
-<a href="https://kaggle.com/udhanshettiprakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="udhanshettiprakash" height="30" width="40" /></a>
-<a href="https://instagram.com/prakash udhanshetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prakash udhanshetti" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/udhanshettiprakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="udhanshettiprakash" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/udhanshettiprakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="udhanshettiprakash" height="30" width="40" /></a>
+| Focus area | What I'm working towards |
+|---|---|
+| Programming | Strengthening Python, Java, and C fundamentals |
+| Web development | Building responsive and useful web applications |
+| Artificial intelligence | Learning AI/ML concepts and exploring practical use cases |
+| Backend development | Practising APIs and backend development with FastAPI |
+| Projects | Turning concepts into working, presentable projects |
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css" alt="Python, Java, C, JavaScript, HTML and CSS" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+### Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=react,fastapi,nodejs,mongodb,mysql,git,github,vscode" alt="React, FastAPI, Node.js, MongoDB, MySQL, Git, GitHub and VS Code" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=udhanshettiprakash&show_icons=true&locale=en&layout=compact" alt="udhanshettiprakash" /></p>
+> This section reflects technologies I'm learning, practising, or exploring—not a claim of professional mastery.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=udhanshettiprakash&show_icons=true&locale=en" alt="udhanshettiprakash" /></p>
+## 🌟 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌾 FarmSmart AI</h3>
+      <p>An agriculture-focused project exploring how AI and software can support practical farming use cases.</p>
+      <p><a href="https://udhanshettiprakash.github.io/FaramaAI/">View project</a></p>
+      <sub>Project focus: AI · Agriculture · Software development</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💻 PRKSH AI Portfolio</h3>
+      <p>My personal developer portfolio for presenting my work, skills, learning journey, and projects.</p>
+      <p><a href="https://udhanshettiprakash.github.io/prksh-portfolio/">Visit portfolio</a></p>
+      <sub>Project focus: Web development · Personal branding</sub>
+    </td>
+  </tr>
+</table>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=udhanshettiprakash&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="Prakash's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udhanshettiprakash&layout=compact&hide_border=true&theme=tokyonight" alt="Most used programming languages" />
+</div>
+
+<div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=udhanshettiprakash&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=udhanshettiprakash&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true" width="98%" alt="GitHub contribution activity graph" />
+</div>
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=udhanshettiprakash&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="98%" alt="GitHub profile trophies" />
+</div>
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/udhanshettiprakash">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/udhanshettiprakash">
+    <img src="https://img.shields.io/badge/X-Twitter-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://dev.to/udhanshettiprakash">
+    <img src="https://img.shields.io/badge/DEV.to-Read%20my%20posts-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV Community" />
+  </a>
+  <a href="https://www.hackerrank.com/udhanshettiprakash">
+    <img src="https://img.shields.io/badge/HackerRank-Practise-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://www.leetcode.com/udhanshettiprakash">
+    <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="mailto:prakashdarshan953@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+  ### 💡 A line I believe in
+
+  **"Great things are built one small improvement at a time."**
+
+  *Thanks for visiting my profile. Feel free to explore my repositories and connect!* 🚀
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=100&section=footer" width="100%" alt="Decorative footer banner" />
+
+</div>
